@@ -1,3 +1,3 @@
 # Scripts
 
-Put your standalone scripts (Python and bash) as well as jupyter notebooks here.
+Post processing scripts used to generate figures in the paper
